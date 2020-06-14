@@ -1,0 +1,32 @@
+h3{text-align: center;color:#1a1aff;   }
+
+.header{min-height: 80px; background-color: skyblue;}
+
+.wrapper{overflow:hidden;}
+
+.blog{	width: 70%;
+		min-height: 200px;
+		background-color:#ff4dff;
+		float:left;
+
+	}
+.contact{width: 30%;
+		min-height: 200px;
+		background-color:  #e6b800; 
+		float:right;}
+
+.fotter{min-height: 120px; 
+	background-color: #ff3300;}
+
+.fotter1{min-height: 120px; 
+	background-color: #003300;
+	clear:both;
+}
+
+.bigbox{}
+
+.box1{width:33%; min-height: 200px;background-color: #00b300;float: left; }
+
+.box2{width:33%;min-height: 200px;background-color:#00ccff;float: left; }
+
+.box3{width:34%;min-height: 200px;background-color: #3d004d;float: left;}
